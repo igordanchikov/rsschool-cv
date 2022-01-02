@@ -1,0 +1,14 @@
+.container {
+    font-family: "Verdana", sans-serif;
+    line-height: 2.0;
+    width: 800px;
+    margin: auto;
+}
+
+.photo {
+    height: 350px;
+}
+
+.text {
+    width: 800px;
+}
