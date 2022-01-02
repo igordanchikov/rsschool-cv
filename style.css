@@ -1,7 +1,7 @@
 .container {
     font-family: "Verdana", sans-serif;
     line-height: 2.0;
-    width: 800px;
+    max-width: 800px;
     margin: auto;
 }
 
@@ -10,5 +10,5 @@
 }
 
 .text {
-    width: 800px;
+    max-width: 800px;
 }
