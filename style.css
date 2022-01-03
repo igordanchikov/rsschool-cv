@@ -1,9 +1,21 @@
+.header {
+    background-color: rgb(209, 205, 205);
+}
+.main {
+    background-color: rgb(255, 210, 210);
+}
+.footer {
+    padding: 10px;
+    margin-top: 20px;
+    display: flex;
+    background-color: rgb(209, 205, 205);
+}
 .container {
     font-family: "Verdana", sans-serif;
     line-height: 2.0;
     max-width: 800px;
     margin: auto;
-}
+    }
 
 .photo {
     height: 350px;
@@ -11,4 +23,7 @@
 
 .text {
     max-width: 800px;
+}
+.aligncenter {
+    text-align: center
 }
